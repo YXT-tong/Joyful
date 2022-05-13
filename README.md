@@ -26,12 +26,11 @@ https://github.com/u6453031/Joyful/blob/main/README.md
 ## Timeline
 1. Step1: Week2-Week3 Understand the plugin and the situation of the website.
 2. Step2: Week5-Week6 Solve the problem of size filter.
-3. Step3: Week6-Week12 uptade the reward system of the game last year.
+3. Step3: Week6-Week12 Slove other problem of the website.
 
 
 ## Deliverables
-1. For this sesmester, we will solve some of the problem of the joyful website, to make it easier to use especailly on size function.
-2. If the website get updated, we will working on the reward game and link it to the website.
+For this sesmester, we will solve some of the problem of the joyful website, to make it easier to use especailly on size function.
 
 ## Documentation 
 
